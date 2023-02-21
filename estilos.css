@@ -1,0 +1,30 @@
+body{
+width:90%;
+margin:auto;
+text-align: center;
+}
+form input {
+    padding:5px 20px;
+}
+li {
+    list-style: none;
+}
+
+.portrait  {
+    
+    background-color:lightblue;
+}
+.portrait img {
+    border:10px;
+    border-style: groove;
+    
+}
+.details {
+    margin-top:20px;
+    background-color: antiquewhite;
+    padding-top:30px;
+    padding-bottom: 100px;
+}
+.details li {
+    margin:10px;
+}
